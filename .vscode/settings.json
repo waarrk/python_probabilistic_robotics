@@ -24,7 +24,8 @@
         "fargs",
         "lastdata",
         "nbagg",
-        "polarpos"
+        "polarpos",
+        "relpos"
     ],
     "python.analysis.extraPaths": [
         "./scripts"
