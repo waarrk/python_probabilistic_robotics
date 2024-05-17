@@ -3,7 +3,6 @@ from scipy.stats import multivariate_normal
 from mcl import *
 import sys
 sys.path.append('../scripts/')
-%matplotlib widget
 
 
 def sigma_ellipse(p, cov, n):
